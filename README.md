@@ -90,7 +90,7 @@
    - **Température de l’enclos** :  
      ![Histogramme Température](hist_temp.png)  
    - **Consommation de nourriture** :  
-     ![Histogramme Nourriture](hist_nourriture.png)  
+     ![Histogramme Nourriture](hist_nourr.png)  
 
 2. **Boîtes à moustaches (Outliers)** :  
    - **Poids** :  
